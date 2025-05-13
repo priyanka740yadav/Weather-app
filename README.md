@@ -1,1 +1,1 @@
-# Weather-app
+This is a simple weather app made with HTML, CSS, and JavaScript. It shows the current temperature, weather condition, and humidity of any city using the OpenWeatherMap API. You just enter a city name, and it gives you the weather. It’s a great project for beginners learning JavaScript.
